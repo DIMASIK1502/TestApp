@@ -15,7 +15,6 @@ export default class Cart extends Component {
       Если необходимо, я переделаю.
   */
   state = {
-    currenciesList: [],
     loading: false,
     sumEUR: 0,
     sumUSD: 0,
